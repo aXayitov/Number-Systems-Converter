@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\dars\ForCloud\bin\Debug\net8.0\ForCloud.exe
+C:\Users\user\Desktop\dars\ForCloud\bin\Debug\net8.0\ForCloud.deps.json
+C:\Users\user\Desktop\dars\ForCloud\bin\Debug\net8.0\ForCloud.runtimeconfig.json
+C:\Users\user\Desktop\dars\ForCloud\bin\Debug\net8.0\ForCloud.dll
+C:\Users\user\Desktop\dars\ForCloud\bin\Debug\net8.0\ForCloud.pdb
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ForCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ForCloud.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ForCloud.AssemblyInfo.cs
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ForCloud.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ForCloud.dll
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\refint\ForCloud.dll
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ForCloud.pdb
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ForCloud.genruntimeconfig.cache
+C:\Users\user\Desktop\dars\ForCloud\obj\Debug\net8.0\ref\ForCloud.dll
